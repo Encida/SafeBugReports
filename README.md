@@ -1,2 +1,2 @@
-# SafeBugReports
-This repository is for bug reports from test users
+# feedback
+This repository is for feedback and bug reports from test users
